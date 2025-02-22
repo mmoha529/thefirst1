@@ -3,4 +3,5 @@ selectors-list ::=
     [, selectors-list]
 
 properties-list ::=
+
     [property : value] [; properties-list]
